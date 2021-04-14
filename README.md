@@ -1,3 +1,3 @@
 # GithubPages
 Angelica Consengco's User Page
-https://github.com/expjel/GithubPages
+https://expjel.github.io/GithubPages
